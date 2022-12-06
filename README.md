@@ -37,7 +37,7 @@ Next simply connect to your newly created VM using RDP using the public IPv4 add
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/STpKCuF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Alright, now that you are connected to your VM you will have to enable IIS. Simply access the control panel then select uninstall a program. Off to the left select "Turn windows features on or off". A list will appear then you will enable Internet Information Services.
