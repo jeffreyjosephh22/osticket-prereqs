@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Heidi SQL
 
 
-<h2>Installation Steps</h2>Hi, welcome to my first tutorial! First things first we need to create a virtual machine using the Microsoft Azure portal. We will be using a VM which is a remote computer. We are using a VM in order to protect our physical machine just in case anything fails. Then create a resource group and title it "osTicket". Afterwards create a VM with 2-4 CPUs. In this example I will be using 4 CPUs virtual machine.
+<h2>Installation Steps</h2>Hi, welcome to my first tutorial! The first thing we need to do is create a virtual machine using the Microsoft Azure portal. A virtual machine is a remote computer. We are using a VM in order to protect our physical machine just in case anything fails. Then create a resource group and title it "osTicket". Afterwards create a VM with 2-4 CPUs. In this example I will be using 4 CPUs virtual machine.
 
 <p>
 <img src="https://i.imgur.com/0Ifuu0y.png" height="887%" width="1848%" alt="Disk Sanitization Steps"/>
